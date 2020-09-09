@@ -1,5 +1,5 @@
 # Site settings
-title: Pudhina
+title: NihaoKaix
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,10 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://NihaoKaix.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: NihaoKaix
   github: github
-  linkedin: 
-  email: example@email.com
+  email: 524455395@qq.com
 
 
 # Syntax highlighting
