@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 博客
+subtitle: 白嫖是一项技术活
 ---
 
 <div>
