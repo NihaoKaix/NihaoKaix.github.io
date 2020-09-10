@@ -1,14 +1,13 @@
 # Site settings
-title: NihaoKaix
+title: NihaoKaix的技术博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
-
+  屠龙宝刀点击就送
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://NihaoKaix.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: NihaoKaix
-  github: github
+  github: https://nihaokaix.github.io/
   email: 524455395@qq.com
 
 
