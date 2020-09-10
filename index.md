@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/tulongdao.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>是时候展示真正的技术了</p>
