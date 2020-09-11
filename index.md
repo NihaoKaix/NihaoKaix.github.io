@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>是时候展示真正的技术了</p>
-	<p>本栏目由 <strong> <a href="https://github.com/knhash/Pudhina"> 你好开心哦</a> </strong>赞助提供</p>
+	<p>本栏目由 <strong> <a href="https://nihaokaix.github.io/"> 你好开心哦</a> </strong>赞助提供</p>
 </div>
