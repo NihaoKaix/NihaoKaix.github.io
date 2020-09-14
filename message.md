@@ -9,6 +9,7 @@ nihao: 大苏打
     <form action="" method="post">
         <input value="你的名字" type="text">
         <input value="内容" type="text">
+		<input value="内容" type="text">
     </form>
 </div>
 
